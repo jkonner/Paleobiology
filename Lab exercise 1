@@ -1,0 +1,27 @@
+Joshua Konner
+Lab 1
+
+Beginner Test
+1.	The class of object is a data frame.  This was found using “class(mtcars).
+2.	Precip is defined as a 1-dimensional array since there is one data point per city.
+3.	As function, make a new matrix from tree data using an array.
+4.	Atlanta is the name of the 14th city in the precip dataset.
+5.	Use data frame
+6.	Precip does contain numeric data.  Math functions can be applied to the dataset.
+7.	Mtcars(multiarray)[2,7], mtcars(multiarray)[ [2,qsec], mtcars(multiarray)[ [Mazda RX4 Wag,7] mtcars(multiarray)[ [Mazda RX4 Wag,qsec]
+8.	subscripts
+9.	There are no trees with the girl greater than volume.  This was tested using "Girth">"Volume" which came out with false
+Intermediate Test
+1.	The number 7 shows up 11 times.
+2.	apply(MyMatrix,2,sum)
+3.	apply(MyMatrix,2,prod)
+4.	tapply(MyMatrix[12])
+5.	which(apply(MyMatrix,1,sum) > 3), which(apply(MyMatrix,1,sum) < 8)
+6.	
+
+Expert Test
+1.	mean(precip), median(precip), sd(precip)
+2.	barplot since it shows much more data.
+3.	
+4.	
+5.	Yes, you can look at the stats.
